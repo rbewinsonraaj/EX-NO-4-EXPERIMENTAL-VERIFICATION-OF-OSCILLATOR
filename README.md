@@ -62,7 +62,8 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-03 at 11 51 07_6d40e4b8](https://github.com/user-attachments/assets/0f4cc1f1-3ca8-4867-935d-1eb923746f99)
+![WhatsApp Image 2025-12-03 at 14 41 37_60015517](https://github.com/user-attachments/assets/02d489f3-442b-47bb-8260-cd9f44c2ddcc)
+
 
 
 
@@ -118,7 +119,8 @@ WIEN BRIDGE OSCILLATOR
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-03 at 11 53 23_d940058f](https://github.com/user-attachments/assets/f5c37bf3-4b0c-4fb1-8b16-98dcf435da26)
+![WhatsApp Image 2025-12-03 at 14 41 55_3b51b3b2](https://github.com/user-attachments/assets/ff9a289b-66a8-43e2-bf9a-da093b2b6a11)
+
 
 
 ## Result
