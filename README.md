@@ -119,7 +119,8 @@ WIEN BRIDGE OSCILLATOR
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-03 at 14 41 55_3b51b3b2](https://github.com/user-attachments/assets/ff9a289b-66a8-43e2-bf9a-da093b2b6a11)
+![WhatsApp Image 2025-12-03 at 15 52 52_0aa3a281](https://github.com/user-attachments/assets/e2a2a2ad-ab6c-4b05-bfa2-e1a958b896ff)
+
 
 
 
